@@ -8,7 +8,7 @@
     "@types/lodash.set": "^4.3.6",
     "google-protobuf": "^3.12.2",
     "lodash.set": "^4.3.2",
-    "protobufjs": "github:Kong/protobuf.js#master"
+    "protobufjs": "github:Kong/protobuf.js#eca9f0f"
   },
   "devDependencies": {
     "@grpc/grpc-js": "^1.3.2",
